@@ -1,0 +1,23 @@
+.conteiner_principal{
+	background-color: #99cccc;	
+}
+
+#contenedor{
+	position: relative;
+    text-align: -webkit-center;
+}
+
+
+.Tipografia{ 
+
+font-family: "Cabin", Times, serif;
+
+}
+
+   #Logo {
+	      height: 400%;
+          margin-top: -32px;
+          margin-right: -5px;
+   }
+
+   
